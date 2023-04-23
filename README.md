@@ -1,6 +1,6 @@
 # Coding Test 연습
 
-## [studygroup](https://github.com/)
+## [studygroup](https://github.com/jisooround/algorithm/tree/main/studygroup)
 
 2022.09 ~ 2023.02 <br/>
 
