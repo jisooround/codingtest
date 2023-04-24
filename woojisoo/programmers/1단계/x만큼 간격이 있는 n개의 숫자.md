@@ -18,8 +18,6 @@ function solution(x, n) {
 }
 ```
 
-<br/>
-
 #### 이번 풀이
 
 ```javascript
