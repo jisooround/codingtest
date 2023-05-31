@@ -20,6 +20,9 @@ function solution(x, n) {
 
 #### 이번 풀이
 
+- 숫자 1로 채워진 길이가 n인 배열 `arr`을 만들어줍니다.
+- `arr` 배열을 순회하면서 각 요소를 x씩 증가하는 수로 바꿔줍니다 → 인덱스 값에 + 1를 해주고, x를 곱한 값으로 치환
+
 ```javascript
 function solution(x, n) {
   let arr = new Array(n).fill(1);
